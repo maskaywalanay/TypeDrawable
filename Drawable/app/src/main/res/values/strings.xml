@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">Drawable</string>
-    <string name="sample_1">Menggunakan Shape</string>
-	<string name="sample_2">Menggunakan Shape</string>
+    <string name="sample_1">Menggunakan Shape Solid</string>
+	<string name="sample_2">Menggunakan Shape Gradient</string>
 	<string name="sample_3">Menggunakan Shape</string>
 	<string name="sample_4">Menggunakan Shape</string>
 	<string name="sample_5">Menggunakan Shape</string>

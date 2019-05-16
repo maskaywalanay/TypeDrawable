@@ -4,4 +4,5 @@
 	<solid android:color="#ffff0000"/>
 		<stroke android:width="2dp"
 			android:color="#ff000000"/>
+	<!-- ini barisan script untuk type shape -->
 </shape>

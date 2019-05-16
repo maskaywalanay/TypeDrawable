@@ -11,6 +11,8 @@
 		android:layout_width="match_parent"
 		android:orientation="vertical">
 
+		
+		<!-- Target latar belakang -->
 		<LinearLayout
 			android:background="@drawable/shape_item"
 			android:layout_height="45dp"
@@ -29,6 +31,9 @@
 
 		</LinearLayout>
 
+		
+
+		<!-- Target latar belakang -->
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/shape_gradient"
@@ -48,6 +53,8 @@
 
 		</LinearLayout>
 
+
+		<!-- Target latar belakang -->
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/layer_list"

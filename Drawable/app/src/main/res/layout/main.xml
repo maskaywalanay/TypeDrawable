@@ -73,6 +73,44 @@
 				android:textStyle="bold"/>
 
 		</LinearLayout>
+		
+		<LinearLayout
+			android:layout_marginTop="15dp"
+			android:background="@drawable/bitmap_drawable"
+			android:layout_height="45dp"
+			android:layout_width="match_parent"
+			android:orientation="horizontal"
+			android:gravity="left|center"
+			android:paddingLeft="10dp"
+			android:paddingRight="10dp">
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="@string/sample_4"
+				android:textColor="#FFFFFF"
+				android:textStyle="bold"/>
+
+		</LinearLayout>
+		<!-- gabungan ini menggunakan parent layer list -->
+		<LinearLayout
+			android:layout_marginTop="15dp"
+			android:background="@drawable/gabungan"
+			android:layout_height="65dp"
+			android:layout_width="match_parent"
+			android:orientation="horizontal"
+			android:gravity="left|center"
+			android:paddingLeft="10dp"
+			android:paddingRight="10dp">
+
+			<TextView
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="@string/sample_5"
+				android:textColor="#FFFFFF"
+				android:textStyle="bold"/>
+
+		</LinearLayout>
 
 	</LinearLayout>
 

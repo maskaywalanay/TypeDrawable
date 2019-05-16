@@ -5,8 +5,8 @@
     <string name="sample_1">Menggunakan Shape Solid</string>
 	<string name="sample_2">Menggunakan Shape Gradient</string>
 	<string name="sample_3">Menggunakan Layer List</string>
-	<string name="sample_4">Menggunakan Shape</string>
-	<string name="sample_5">Menggunakan Shape</string>
+	<string name="sample_4">Menggunakan Bitmap</string>
+	<string name="sample_5">Menggunakan Gabungan drawable</string>
 	<string name="sample_6">Menggunakan Shape</string>
 	<string name="sample_7">Menggunakan Shape</string>
 </resources>

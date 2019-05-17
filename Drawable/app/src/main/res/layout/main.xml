@@ -3,7 +3,8 @@
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	android:gravity="center">
+	android:gravity="center"
+	android:background="@drawable/bg_linear">
 
 	<LinearLayout
 		android:padding="10dp"
@@ -11,8 +12,6 @@
 		android:layout_width="match_parent"
 		android:orientation="vertical">
 
-		
-		<!-- Target latar belakang -->
 		<LinearLayout
 			android:background="@drawable/shape_item"
 			android:layout_height="45dp"
@@ -31,9 +30,6 @@
 
 		</LinearLayout>
 
-		
-
-		<!-- Target latar belakang -->
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/shape_gradient"
@@ -53,8 +49,6 @@
 
 		</LinearLayout>
 
-
-		<!-- Target latar belakang -->
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/layer_list"
@@ -73,7 +67,7 @@
 				android:textStyle="bold"/>
 
 		</LinearLayout>
-		
+
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/bitmap_drawable"
@@ -92,7 +86,7 @@
 				android:textStyle="bold"/>
 
 		</LinearLayout>
-		<!-- gabungan ini menggunakan parent layer list -->
+
 		<LinearLayout
 			android:layout_marginTop="15dp"
 			android:background="@drawable/gabungan"
@@ -111,6 +105,10 @@
 				android:textStyle="bold"/>
 
 		</LinearLayout>
+
+		
+
+		
 
 	</LinearLayout>
 

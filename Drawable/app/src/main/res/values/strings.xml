@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Drawable</string>
+    <string name="app_name">Basic Type Drawable</string>
     <string name="sample_1">Menggunakan Shape Solid</string>
 	<string name="sample_2">Menggunakan Shape Gradient</string>
 	<string name="sample_3">Menggunakan Layer List</string>

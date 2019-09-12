@@ -7,6 +7,6 @@
 	<string name="sample_3">Menggunakan Layer List</string>
 	<string name="sample_4">Menggunakan Bitmap</string>
 	<string name="sample_5">Menggunakan Gabungan drawable</string>
-	<string name="sample_6">Menggunakan Clip</string>
-	<string name="sample_7">Menggunakan Shape</string>
+	<string name="sample_6">Menggunakan Stroke Dash</string>
+	<string name="sample_7">Menggunakan Shape Round</string>
 </resources>

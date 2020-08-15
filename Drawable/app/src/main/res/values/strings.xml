@@ -9,4 +9,14 @@
 	<string name="sample_5">Menggunakan Gabungan drawable</string>
 	<string name="sample_6">Menggunakan Stroke Dash</string>
 	<string name="sample_7">Menggunakan Shape Round</string>
+	
+	<!-- Continue 15-08-2020 -->
+	<string name="text_box_sample_1">Kotak ini menggunakan latar belakang "Shape - Solid".</string>
+	<string name="text_box_sample_2">Menggunakan Shape Solid</string>
+	<string name="text_box_sample_3">Menggunakan Shape Solid</string>
+	<string name="text_box_sample_4">Menggunakan Shape Solid</string>
+	<string name="text_box_sample_5">Menggunakan Shape Solid</string>
+	<string name="text_box_sample_6">Menggunakan Shape Solid</string>
+	<string name="text_box_sample_7">Menggunakan Shape Solid</string>
+	
 </resources>
